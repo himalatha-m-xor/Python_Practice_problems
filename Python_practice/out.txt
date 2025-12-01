@@ -1,0 +1,10 @@
+Bug ID 101: VALID
+Bug ID 102: VALID
+Bug ID 103: Error: missing ['description']
+Bug ID 104: Error: missing ['title']
+Bug ID 105: VALID
+Bug ID 106: VALID
+Bug ID 107: VALID
+Bug ID 108: VALID
+Bug ID 109: Error: missing ['description']
+Bug ID 110: VALID
